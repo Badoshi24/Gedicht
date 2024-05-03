@@ -1,6 +1,7 @@
 Farbpalette
 
 Rot
-Grün
+hellgrün
+dunkelgrün
 Blau
 Sind alles tolle Farben
